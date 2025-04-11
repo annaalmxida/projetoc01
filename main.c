@@ -3,5 +3,9 @@
 
 void main() {
 
+
 printf ("Boa tarde!");
+
+	float numero1;
+
 }
